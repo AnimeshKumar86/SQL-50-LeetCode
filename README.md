@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
