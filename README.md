@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1934-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0055-jump-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
