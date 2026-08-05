@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0078-subsets) |
 ## Dynamic Programming
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
