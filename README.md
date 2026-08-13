@@ -49,9 +49,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
