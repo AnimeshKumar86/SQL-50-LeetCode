@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0078-subsets) |
+| [1528-shuffle-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0392-is-subsequence) |
+| [1528-shuffle-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1528-shuffle-string) |
 <!---LeetCode Topics End-->
