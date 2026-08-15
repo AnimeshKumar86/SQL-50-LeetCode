@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0392-is-subsequence) |
 | [1528-shuffle-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1528-shuffle-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
