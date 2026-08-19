@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0078-subsets) |
+| [0997-find-the-town-judge](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1528-shuffle-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0001-two-sum) |
+| [0997-find-the-town-judge](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0997-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
