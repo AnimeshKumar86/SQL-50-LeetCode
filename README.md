@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0078-subsets) |
+| [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1528-shuffle-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
@@ -95,4 +96,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0207-course-schedule) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
