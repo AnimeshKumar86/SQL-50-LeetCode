@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0078-subsets) |
 | [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0997-find-the-town-judge) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0056-merge-intervals) |
 | [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
