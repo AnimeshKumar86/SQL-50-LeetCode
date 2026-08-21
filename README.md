@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0078-subsets) |
 | [0912-sort-an-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0997-find-the-town-judge) |
+| [1480-running-sum-of-1d-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0056-merge-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
