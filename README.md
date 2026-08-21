@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1480-running-sum-of-1d-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/AnimeshKumar86/SQL-50-LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
